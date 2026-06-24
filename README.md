@@ -77,7 +77,7 @@ API → Kafka (Event Hub) → Spark (Processing) → PostgreSQL (Data Store)
 
 ```bash
 # Clone the repository
-git clone https://github.com/praneetha-meda/data-pipeline-kafka-spark-airflow.git
+git clone https://github.com/praneetha38/realtime-data-ingestion-spark-pipeline.git
 cd data-pipeline-kafka-spark-airflow
 
 # Start all services with Docker Compose
@@ -158,10 +158,7 @@ By completing this project, you'll understand:
 
 ---
 
-## 📖 Documentation
 
-For a detailed step-by-step guide and explanations:
-- [Add your blog/article link here]
 
 For detailed understanding of tool internals and theory, refer to official documentation:
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
