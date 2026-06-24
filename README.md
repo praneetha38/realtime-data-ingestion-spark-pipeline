@@ -1,7 +1,7 @@
 # Building a simple End-to-End Data Engineering System 
 This project uses different tools such as kafka, airflow, spark, postgres and docker. 
 
-A step by step guide to run this pipeline: [Add your blog link here]
+A step by step guide to run this pipeline:
 
 ## Overview
 
