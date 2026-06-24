@@ -1,6 +1,6 @@
 # Real-Time Data Pipeline: Kafka → Spark → PostgreSQL
 
-A comprehensive end-to-end data engineering project demonstrating real-time data streaming, distributed processing, and workflow orchestration. This project is split into two phases: **Phase 1** focuses on building a robust data pipeline, while **Phase 2** (coming soon) will develop LLM-powered applications that interact with the database.
+A comprehensive end-to-end data engineering project demonstrating real-time data streaming, distributed processing, and workflow orchestration. This project is split into two phases: **Phase 1** focuses on building a robust data pipeline, while **Phase 2**  will develop LLM-powered applications that interact with the database.
 
 **Technologies:** Apache Kafka, Apache Spark, Apache Airflow, PostgreSQL, Python, Docker Compose
 
